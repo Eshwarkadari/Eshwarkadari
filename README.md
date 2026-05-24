@@ -4,7 +4,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Kadari Eshwar!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Web+Developer+%F0%9F%8C%90;Problem+Solver+%F0%9F%A7%A0;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Web+Developer+%F0%9F%8C%90;IoT+%26+Embedded+Engineer+%F0%9F%94%A7;Problem+Solver+%F0%9F%A7%A0;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,12 +12,13 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on **automation tools and web projects**
-- 🌱 I'm learning **advanced Python, JavaScript, and AI integrations**
-- 💡 I love building tools that solve real-world problems
-- 🇮🇳 Based in **India**
+- 🎓 B.Tech ECE Student at **JNTU Hyderabad** (4th Year)
+- 🔭 Currently working on **IoT, Python & Data Analytics projects**
+- 🌱 Learning **Machine Learning, Flask, Power BI**
+- 🏆 Hackathon Winner | CCNA Certified | IoT Certified
+- 🇮🇳 Based in **Hyderabad, India**
 - 📫 Reach me at **eshwarkadari78@gmail.com**
-- ⚡ Fun fact: I built projects ranging from **sci calculators to food center apps!**
+- ⚡ Fun fact: I combine ECE hardware knowledge with Python software skills!
 
 ---
 
@@ -30,12 +31,22 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+**Hardware & IoT:**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+
 **Tools & Platforms:**
 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Networking:**
+
+![Cisco](https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
@@ -66,7 +77,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Eshwarkadari/Eshwarkadari/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Eshwarkadari/Eshwarkadari/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eshwarkadari/Eshwarkadari/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Eshwarkadari/Eshwarkadari/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -77,6 +92,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Eshwarkadari-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eshwarkadari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eshwar_Kadari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshwar-kadari-134aa4278)
 [![Email](https://img.shields.io/badge/Email-eshwarkadari78@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eshwarkadari78@gmail.com)
 
 </div>
