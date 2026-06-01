@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech ECE Student at **JNTU Hyderabad** (4th Year)
+- 🎓 B.Tech ECE Student at **CMR College of Engineering and Technology** (4th Year)
 - 🔭 Currently working on **IoT, Python & Data Analytics projects**
 - 🌱 Learning **Machine Learning, Flask, Power BI**
 - 🏆 Hackathon Winner | CCNA Certified | IoT Certified
@@ -67,7 +67,9 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Eshwarkadari&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Eshwarkadari&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" width="100%" alt="Trophy" />
+</a>
 
 </div>
 
