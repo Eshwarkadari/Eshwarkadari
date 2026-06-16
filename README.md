@@ -103,9 +103,8 @@
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Eshwarkadari&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Eshwarkadari&theme=radical&row=2&column=4" alt="Trophy" />
 </a>
-
 </div>
 
 ---
