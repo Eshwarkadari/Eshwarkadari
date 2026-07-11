@@ -1,17 +1,10 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Kadari%20Eshwar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20ECE%20%7C%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descColor=ffffff" />
+<img src="https://komarev.com/ghpvc/?username=Eshwarkadari&label=Profile%20Views&color=0e75b6&style=flat" alt="Eshwarkadari" />
 
-<!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=Eshwarkadari&label=Profile%20Views&color=4F46E5&style=for-the-badge" alt="Profile Views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/Eshwarkadari?label=Followers&style=for-the-badge&color=06B6D4" />
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Kadari Eshwar!
 
-<br/><br/>
-
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=👋+Hey%2C+I'm+Kadari+Eshwar!;🎓+B.Tech+ECE+%40+CMR+College;🐍+Python+%26+Flask+Developer;🔌+IoT+%26+Embedded+Engineer;🔐+CCNA+Certified+%7C+Network+Security;📊+Data+Analytics+%7C+Power+BI;🏆+LeetCode+119+Problems+Solved!;🚀+Always+Building+%26+Learning!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Web+Developer+%F0%9F%8C%90;IoT+%26+Embedded+Engineer+%F0%9F%94%A7;Problem+Solver+%F0%9F%A7%A0;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,18 +12,13 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="320" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162623566353036636333/programming.gif" />
-
-- 🎓 **B.Tech ECE** at **CMR College of Engineering and Technology** (4th Year)
-- 🔭 Working on **IoT, Python & Data Analytics projects**
+- 🎓 B.Tech ECE Student at **CMR College of Engineering and Technology** (4th Year)
+- 🔭 Currently working on **IoT, Python & Data Analytics projects**
 - 🌱 Learning **Machine Learning, Flask, Power BI**
-- 🏆 **Hackathon Winner** | **CCNA Certified** | **IoT Certified**
-- 💡 **119 LeetCode problems solved** | 50 Days Badge 2026 🏅
-- 📍 Based in **Hyderabad, India**
-- 📫 **eshwarkadari78@gmail.com**
-- ⚡ I combine **ECE hardware** knowledge with **Python software** skills!
-
-<br clear="right"/>
+- 🏆 Hackathon Winner | CCNA Certified | IoT Certified
+- 🇮🇳 Based in **Hyderabad, India**
+- 📫 Reach me at **eshwarkadari78@gmail.com**
+- ⚡ Fun fact: I combine ECE hardware knowledge with Python software skills!
 
 ---
 
@@ -71,54 +59,40 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 **🔐 Networking & Security:**
 
-![Cisco CCNA](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network_Security-EF4444?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-EF4444?style=for-the-badge&logo=shield&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-**⚙️ Automation & Tools:**
+**⚙️ Automation & DevOps:**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+**🛠️ Tools & Platforms:**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-## 🏆 LeetCode Stats
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/Eshwarkadari?theme=light&font=Fira%20Code&ext=heatmap&border=4F46E5" alt="LeetCode Stats" width="70%"/>
-
-<br/><br/>
-
-| 🎯 Total Solved | ✅ Easy | 🟡 Medium | 🔴 Hard | 🏅 Badge |
-|:--------------:|:-------:|:---------:|:-------:|:--------:|
-| **119 / 3985** | 53 | 58 | 8 | 50 Days 2026 |
-
-</div>
-
----
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Eshwarkadari&show_icons=true&theme=default&hide_border=false&border_color=4F46E5&title_color=4F46E5&icon_color=06B6D4&text_color=1e293b&bg_color=ffffff&count_private=true&ring_color=4F46E5" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eshwarkadari&theme=default&hide_border=false&border=4F46E5&ring=4F46E5&fire=06B6D4&currStreakLabel=4F46E5&background=ffffff&sideNums=1e293b&currStreakNum=4F46E5&dates=64748b&sideLabels=64748b" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Eshwarkadari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eshwarkadari&theme=tokyonight&hide_border=true" width="48%" />
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshwarkadari&layout=compact&theme=default&hide_border=false&border_color=4F46E5&title_color=4F46E5&text_color=1e293b&bg_color=ffffff" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eshwarkadari&theme=github-light&bg_color=ffffff&color=4F46E5&line=06B6D4&point=4F46E5&area=true&hide_border=false&border_color=4F46E5" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshwarkadari&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
@@ -128,7 +102,9 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Eshwarkadari&theme=flat&no-frame=false&no-bg=false&row=1&column=7&margin-w=8&margin-h=8&title_color=4F46E5" width="100%" alt="Trophies"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Eshwarkadari&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" width="100%" alt="Trophy" />
+</a>
 
 </div>
 
@@ -152,11 +128,9 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Eshwarkadari-4F46E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eshwarkadari)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eshwar_Kadari-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshwar-kadari-134aa4278)
-[![LeetCode](https://img.shields.io/badge/LeetCode-119_Solved-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Eshwarkadari)
-[![Email](https://img.shields.io/badge/Email-eshwarkadari78@gmail.com-EF4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eshwarkadari78@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://eshwarkadari.github.io/portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-Eshwarkadari-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eshwarkadari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eshwar_Kadari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshwar-kadari-134aa4278)
+[![Email](https://img.shields.io/badge/Email-eshwarkadari78@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eshwarkadari78@gmail.com)
 
 </div>
 
@@ -164,10 +138,8 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer&animation=fadeIn"/>
+⭐ **If you find my work helpful, consider starring my repos!** ⭐
 
-*"Code is like humor. When you have to explain it, it's bad." — Cory House* 💡
-
-⭐ **Star my repos if you find them helpful!** ⭐
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
 </div>
