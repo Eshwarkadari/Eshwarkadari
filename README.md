@@ -1,10 +1,14 @@
-<div align="center">
+<!--  ╔══════════════════════════════════════════════════════╗
+     ║           ESHWAR KADARI — GitHub Profile            ║
+     ╚══════════════════════════════════════════════════════╝  -->
+
+<div align="center" style="background-color:#ffffff;">
 
 <img src="https://komarev.com/ghpvc/?username=Eshwarkadari&label=Profile%20Views&color=0e75b6&style=flat" alt="Eshwarkadari" />
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Kadari Eshwar!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Web+Developer+%F0%9F%8C%90;IoT+%26+Embedded+Engineer+%F0%9F%94%A7;Problem+Solver+%F0%9F%A7%A0;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=650&lines=Python+Developer+%F0%9F%90%8D;Full-Stack+%26+IoT+Engineer+%F0%9F%94%A7;AI%2FML+Enthusiast+%F0%9F%A4%96;ISRO+Hackathon+Winner+%F0%9F%9A%80;119+LeetCode+Problems+Solved+%F0%9F%92%AA)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,13 +16,37 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech ECE Student at **CMR College of Engineering and Technology** (4th Year)
-- 🔭 Currently working on **IoT, Python & Data Analytics projects**
-- 🌱 Learning **Machine Learning, Flask, Power BI**
-- 🏆 Hackathon Winner | CCNA Certified | IoT Certified
+- 🎓 **B.Tech ECE** — CMR College of Engineering & Technology, Hyderabad (2027)
+- 🚀 **ISRO BAH 2026 Hackathon Winner** — Team AstraGuard (Problem Statement 13)
+- 🏅 **Cisco Certified** — CCNA | Cybersecurity Essentials | IoT Fundamentals | Python
+- 💡 Passionate about **IoT, Networking, AI/ML & Full-Stack Development**
+- 🎯 Targeting **SDE / Data Analytics / AI-ML** roles at top-tier companies
 - 🇮🇳 Based in **Hyderabad, India**
-- 📫 Reach me at **eshwarkadari78@gmail.com**
-- ⚡ Fun fact: I combine ECE hardware knowledge with Python software skills!
+- 📫 **eshwarkadari78@gmail.com**
+- ⚡ Fun fact: I blend ECE hardware knowledge with Python & cloud skills!
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| 🚀 ISRO BAH 2026 | 🟡 LeetCode | 🔐 Cisco CCNA | 🌐 50-Day Streak |
+|:---:|:---:|:---:|:---:|
+| Hackathon Winner | **119 Problems Solved** | Network Certified | LeetCode 2026 Badge |
+| Team AstraGuard | Easy: 53 · Med: 58 · Hard: 8 | Cybersecurity ✅ | 53 Active Days |
+
+</div>
+
+---
+
+## 📊 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/eshwarkadari?theme=light&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+
+</div>
 
 ---
 
@@ -84,15 +112,16 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Eshwarkadari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eshwarkadari&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Eshwarkadari&show_icons=true&theme=default&bg_color=ffffff&title_color=0078D4&icon_color=0078D4&text_color=333333&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eshwarkadari&theme=default&background=ffffff&ring=0078D4&fire=FF6B35&currStreakLabel=0078D4&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshwarkadari&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshwarkadari&layout=compact&theme=default&bg_color=ffffff&title_color=0078D4&text_color=333333&hide_border=true" width="48%" />
 
 </div>
 
@@ -103,8 +132,9 @@
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Eshwarkadari&theme=radical&row=2&column=4" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Eshwarkadari&theme=flat&row=2&column=4&no-bg=true&margin-w=10" alt="Trophy" />
 </a>
+
 </div>
 
 ---
@@ -129,6 +159,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Eshwarkadari-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eshwarkadari)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eshwar_Kadari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshwar-kadari-134aa4278)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-0078D4?style=for-the-badge&logo=vercel&logoColor=white)](https://eshwarkadari.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-eshwarkadari78@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eshwarkadari78@gmail.com)
 
 </div>
